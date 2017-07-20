@@ -1,0 +1,6 @@
+D:\Repositories\HomeWorks\02_Plant\02_Plant\bin\Debug\02_Plant.exe.config
+D:\Repositories\HomeWorks\02_Plant\02_Plant\bin\Debug\02_Plant.exe
+D:\Repositories\HomeWorks\02_Plant\02_Plant\bin\Debug\02_Plant.pdb
+D:\Repositories\HomeWorks\02_Plant\02_Plant\obj\Debug\02_Plant.csprojResolveAssemblyReference.cache
+D:\Repositories\HomeWorks\02_Plant\02_Plant\obj\Debug\02_Plant.exe
+D:\Repositories\HomeWorks\02_Plant\02_Plant\obj\Debug\02_Plant.pdb
